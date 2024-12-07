@@ -1,0 +1,2 @@
+# Tumor_Detection_Django_application_with_login
+Tumor_Detection_Django_application
